@@ -1,12 +1,13 @@
 ﻿using System;
+
 namespace Problems.AddTwoNumbers
 {
-	public class Solution
-	{
-		public Solution()
-		{
-		}
-	}
+    public class Solution
+    {
+        public Solution()
+        {
+        }
+    }
 
 
     //Definition for singly-linked list.
