@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="AddTwoNumbers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AddTwoNumbers\" />
+  </ItemGroup>
 </Project>
