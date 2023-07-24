@@ -47,7 +47,6 @@ namespace Problems.AddTwoNumbers
         }
     }
 
-
     //Definition for singly-linked list.
     public class ListNode
     {
