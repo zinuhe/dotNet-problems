@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryNumber", "BinaryNumber\BinaryNumber.csproj", "{83895F0C-B373-4E73-B3EA-6ACD4E586F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryNumber.Tests", "BinaryNumber.Tests\BinaryNumber.Tests.csproj", "{C0411398-7D1A-45EF-B6DD-9BA715CBC718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83895F0C-B373-4E73-B3EA-6ACD4E586F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83895F0C-B373-4E73-B3EA-6ACD4E586F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83895F0C-B373-4E73-B3EA-6ACD4E586F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83895F0C-B373-4E73-B3EA-6ACD4E586F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0411398-7D1A-45EF-B6DD-9BA715CBC718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0411398-7D1A-45EF-B6DD-9BA715CBC718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0411398-7D1A-45EF-B6DD-9BA715CBC718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0411398-7D1A-45EF-B6DD-9BA715CBC718}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
