@@ -31,3 +31,5 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 ## TO DO
 
 - check how to optimize it, search first for more than 3 duplicate items and not iterate two times or so
+- working on it, it is almost done, filling the gaps at the end (with 0) sometimes is not working
+- it can be used `Array.Fill(input, 0, startIndex, count);` to fill the end gaps all at once with 0, where `startIndex` is `k + 1` and `count` is all the way to the end.
